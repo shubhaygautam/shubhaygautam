@@ -1,7 +1,8 @@
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Hi+there!+I'm+Shubhay+Gautam;A+Passionate+Web+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&lines=Hi+there!+I'm+Shubhay+Gautam;A+Passionate+Web+Developer" style="width: 600px;">
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhaygautam&label=Profile%20views&color=0e75b6&style=flat" alt="shubhaygautam" /> </p>
+
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
