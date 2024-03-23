@@ -7,8 +7,7 @@
 
 ---
 
-<h2 align="center"><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me</h2>
+<h2 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me</h2>
 
 <p align="left">Hey! I'm Shubhay Gautam, a third-year student pursuing my Bachelor of Technology in Information Technology at Jaypee Institute of Information Technology, Noida. 🎓</p>
 
