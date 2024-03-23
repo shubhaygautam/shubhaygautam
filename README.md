@@ -83,13 +83,14 @@
 
 
 ---
-<h2 align = "center">Statistics</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhaygautam&show_icons=true&locale=en&layout=compact" alt="shubhaygautam" /></p>
+<h2 align = "center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhaygautam&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&show_icons=true&locale=en&layout=compact" alt="shubhaygautam" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhaygautam&show_icons=true&locale=en" alt="shubhaygautam" /></p>
+<div img align="center" style="width: 100%;"><img src="https://github-readme-stats.vercel.app/api?username=shubhaygautam&&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=9CA3AF&show_icons=true&locale=en" alt="shubhaygautam" /></div>
 
-<div align="center" style="width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhaygautam" alt="shubhaygautam" />
+<div align="center" style="width: 100%;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhaygautam&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=FFFFFF&sideNums=9CA3AF&currStreakNum=FFFFFF&sideLabels=9CA3AF" alt="shubhaygautam" />
 </div>
 
 
