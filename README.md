@@ -9,7 +9,7 @@
 
 <h2 align="center"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>About Me</h2>
 
-<p align="left">Hey! I'm Shubhay Gautam, a third-year student pursuing my Bachelor of Technology in Information Technology at Jaypee Institute of Information Technology, Noida. 🎓</p>
+<p align="left">Hey! I'm Shubhay Gautam, a final-year student pursuing my Bachelor of Technology in Information Technology at Jaypee Institute of Information Technology, Noida. 🎓</p>
 
 <p align="left">💻 Passionate about coding and eager to dive deep into the world of technology, I'm constantly exploring and learning new technologies to broaden my horizons. From web development to data science, I'm always up for the challenge of mastering new tools and frameworks.</p>
 
